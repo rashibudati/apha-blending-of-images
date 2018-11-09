@@ -2,6 +2,6 @@
 Alpha blending of two images using OpenCV
 
 To run the code:
-python <filename>.py
+python <code>filename.py </code>
   
   
